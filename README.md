@@ -1,5 +1,5 @@
 # XAI-Practice
-
+(XAI: eXplainable AI)
 ## loan : 신용대출 분석 데이터
 
 ## Emotion: JAFFE 감정분석 데이터
